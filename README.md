@@ -1,12 +1,12 @@
 # Student Performance Analysis
 
-## 📊 Project Overview
+##  Project Overview
 
 This project analyzes student academic performance using Maths and Portuguese student datasets. The analysis focuses on understanding overall performance and identifying factors that may influence students' final grades.
 
 The project was created using Power BI, Power Query, and DAX to transform the data, calculate performance metrics, and build an interactive dashboard.
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze subject-wise student performance
 - Analyze overall academic performance
@@ -18,14 +18,14 @@ The project was created using Power BI, Power Query, and DAX to transform the da
 - Analyze the effect of previous failures
 - Visualize G1, G2 and G3 performance trends
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Power BI
 - Power Query
 - DAX
 - CSV Dataset
 
-## 📂 Dataset
+##  Dataset
 
 The project uses two datasets:
 
@@ -42,7 +42,7 @@ The datasets contain information such as:
 - G1, G2 and G3 grades
 - Family and social factors
 
-## 🔄 Data Preparation
+##  Data Preparation
 
 The datasets were loaded and cleaned using Power Query.
 
@@ -76,7 +76,7 @@ The Power BI dashboard includes:
 - Subject-wise Performance by Gender
 - Previous Failures vs Average Final Grade
 
-## 💡 Key Insights
+##  Key Insights
 
 - The overall average final grade is **11.33**.
 - The overall pass rate is approximately **77.86%**.
@@ -87,7 +87,7 @@ The Power BI dashboard includes:
 - Female and male students show relatively similar overall average final grades.
 - Final grades generally improve from G1 to G3.
 
-## 📌 Recommendations
+##  Recommendations
 
 - Encourage students to maintain consistent study habits.
 - Monitor students with high absence levels.
@@ -96,14 +96,14 @@ The Power BI dashboard includes:
 - Encourage regular attendance and structured study schedules.
 - Provide subject-specific support where performance is lower.
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 ![Student Performance Analysis Dashboard]
 <img width="1355" height="786" alt="Dashboard" src="https://github.com/user-attachments/assets/d811c4ae-f8dc-4d92-ba56-9fe55ff28c04" />
 
 
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Student-Performance-Analysis/
